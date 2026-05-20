@@ -52,7 +52,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 
 - [Firecrawl](https://firecrawl.dev/) - Scrape, crawl, map, search, agent, and interact endpoints. LLM-ready Markdown. 500 free credits, paid plans from $16/mo.
 - [Jina Reader](https://jina.ai/reader/) - Prepend `r.jina.ai/` to any URL for LLM-friendly text. Free tier with no API key required.
-- [Diffbot](https://www.diffbot.com/) - Computer vision and NLP extraction with a knowledge graph layer. Paid.
+- [Diffbot](https://www.diffbot.com/) - Computer vision and NLP based extraction, plus a knowledge graph layer for structured web data. 10,000 free credits, paid plans from $299/mo. 
 - [Apify](https://apify.com/) - Marketplace of 10,000+ pre-built scrapers ("Actors") plus a runtime for your own. Free tier and paid plans.
 - [Bright Data](https://brightdata.com/) - Scraping with 150M+ proxies and pre-built APIs for 120+ sites. Free tier and paid plans.
 - [Zyte](https://www.zyte.com/) - Scraping API with AI extraction. Formerly Scrapinghub. Paid.
