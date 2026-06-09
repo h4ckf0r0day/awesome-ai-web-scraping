@@ -66,6 +66,12 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
 
+## Specialized Data APIs
+
+Focused scrapers for specific platforms or data types — not general-purpose crawlers.
+
+- [gmapsscraper.io](https://gmapsscraper.io) — Google Maps lead extraction API; returns business names, phones, emails, addresses and more. Credit-based, free trial available.
+
 ## Browser Infrastructure for AI
 
 Headless browsers designed for AI agents and scrapers.
