@@ -102,6 +102,8 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
 
+- [The Stall](https://github.com/thebrierfox/the-stall) - 200+ pay-per-call web intelligence tools via x402 (USDC micropayments on Base). Web caps include `readable-content`, `page-intel`, `page-links`, `web-company-intel`, `http-headers`, and `ssl-cert`. No API key — agents pay $0.002–$0.015/call. ![GitHub Repo stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=social)
+
 ## Web Search APIs for LLMs
 
 Search APIs that return structured, LLM-friendly results with full-page content.
