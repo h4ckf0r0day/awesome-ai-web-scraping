@@ -149,6 +149,7 @@ Pre-scraped web data for RAG, training, or benchmarking.
 - [Jina Reader Quickstart](https://jina.ai/reader/) - One-line URL conversion.
 - [LangChain Web Loaders](https://python.langchain.com/docs/integrations/document_loaders/) - Document loaders for web content.
 - [LlamaIndex Web Connectors](https://llamahub.ai/) - Web data connectors for LlamaIndex.
+- [Superhighway /scrape Guide](https://superhighway.walls.sh/guides/web-scraping) - Extract any URL as clean LLM-ready text in one API call. Python and JavaScript examples, LangChain integration, MCP server, x402 pay-per-call.
 
 ## Contributing
 
