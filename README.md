@@ -115,6 +115,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [Brave Search API](https://brave.com/search/api/) - Independent search index.
 - [You.com API](https://api.you.com/) - Web, news, and snippet endpoints.
 - [Kagi Search API](https://help.kagi.com/kagi/api/search.html) - Premium, ad-free search results.
+- [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents: search, news, images, scrape, and research endpoints. Pay-per-call with USDC via x402 (no signup) or free API key. MCP server: `npx -y superhighway-mcp`.
 
 ## Proxy & Anti-Bot Infrastructure
 
