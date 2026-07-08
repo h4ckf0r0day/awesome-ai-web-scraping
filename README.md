@@ -77,6 +77,7 @@ Headless browsers designed for AI agents and scrapers.
 - [Browserless](https://www.browserless.io/) - Headless Chrome as a service. Free tier and paid plans.
 - [Obscura](https://github.com/h4ckf0r0day/obscura) - Rust-based headless browser. CDP-compatible with Puppeteer and Playwright. Built-in stealth and tracker blocking. ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social)
 - [Browserable](https://github.com/browserable/browserable) - Open-source, self-hostable browser automation library. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
+- [Fortress](https://github.com/tiliondev/fortress) - Open-source recompiled Chromium, fingerprint corrected in C++, driven over CDP. Passes CreepJS and sannysoft, clears Cloudflare Turnstile and Anubis.
 
 ## No-Code AI Scrapers
 
@@ -101,6 +102,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+- [Tilion](https://github.com/tiliondev/fortress) - MCP server exposing a stealth Chromium so agents reach sites behind Cloudflare, DataDome, and Anubis; fetch, extract, crawl, detect WAF.
 
 ## Web Search APIs for LLMs
 
