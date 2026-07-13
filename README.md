@@ -124,6 +124,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [NetNut](https://netnut.io/) - ISP and residential proxy network.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot proxy and scraping API.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy rotation and CAPTCHA handling.
+- [ProxyHat](https://proxyhat.com/) - AI-filtered residential proxies (195+ countries) with drop-in open-source integrations for Scrapy, Crawlee, Crawl4AI, Playwright, requests, LangChain, and more.
 
 ## Datasets
 
