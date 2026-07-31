@@ -61,6 +61,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Oxylabs](https://oxylabs.io/) - Proxies plus a Web Scraper API with adaptive parsing. Paid.
 - [Spider](https://spider.cloud/) - Concurrent crawler and scraper API with LLM-ready output. Free tier and paid plans.
 - [WebScraping.AI](https://webscraping.ai/) - Scraping API with question-answering and field-extraction endpoints. Free tier and paid plans.
+- [Xquik](https://xquik.com/) - Hosted API for structured X search, profiles, follower exports, bulk extraction, monitors, and webhooks. Paid.
 - [Scrapeless](https://www.scrapeless.com/) - Scraping API with anti-bot bypass and structured extraction. Free tier and paid plans.
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
@@ -100,7 +101,10 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) - MCP server exposing Browserbase sessions and Stagehand primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social)
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
-- [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+- [WebScraping.AI MCP](https://webscraping.ai/integrations/mcp-server) - MCP integration for WebScraping.AI's extraction tools.
+- [Xquik MCP](https://docs.xquik.com/mcp/overview) - Remote MCP for structured X search, profiles, follower exports, bulk extraction, monitors, and webhooks. Paid.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ## Web Search APIs for LLMs
 
@@ -137,7 +141,7 @@ Pre-scraped web data for RAG, training, or benchmarking.
 
 ## Benchmarks & Research
 
-- [SWDE](https://www.microsoft.com/en-us/research/publication/from-one-tree-to-a-forest-a-unified-solution-for-structured-web-data-extraction/) - Structured Web Data Extraction benchmark from Microsoft Research.
+- [SWDE](https://www.microsoft.com/en-us/research/?p=161608) - Structured Web Data Extraction benchmark from Microsoft Research.
 - [WebSRC](https://x-lance.github.io/WebSRC/) - Dataset for web-based structural reading comprehension.
 - [AXE](https://arxiv.org/abs/2406.06237) - Research on DOM pruning for token-efficient LLM extraction.
 - [NEXT-EVAL](https://arxiv.org/abs/2503.05036) - Benchmark comparing HTML representations for LLM extraction accuracy.
