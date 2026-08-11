@@ -45,6 +45,8 @@ Self-hosted, open-source. Most pair a headless browser with an LLM for schema-ba
 - [ScraperAI](https://github.com/scraperai/scraperai) - AI scraper with auto-detection of page types, pagination, and catalog cards. ![GitHub Repo stars](https://img.shields.io/github/stars/scraperai/scraperai?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Generates Playwright spiders from natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 - [PulsarRPA](https://github.com/platonai/pulsarRPA) - AI-powered browser automation and data extraction. ![GitHub Repo stars](https://img.shields.io/github/stars/platonai/pulsarRPA?style=social)
+- [scrape-heal](https://github.com/Swastikbhat-lab/scrape-heal) - Self-healing scraper loop: detects selector breakage after site redesigns, repairs selectors from the last good run's data, and ships a fix only after re-verifying it in the live browser. Watchdog mode alerts the moment a run goes red. LLM-assisted repair on the roadmap. TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/Swastikbhat-lab/scrape-heal?style=social)
+
 
 ## Hosted APIs
 
