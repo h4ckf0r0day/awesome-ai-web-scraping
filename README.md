@@ -51,6 +51,7 @@ Self-hosted, open-source. Most pair a headless browser with an LLM for schema-ba
 Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, proxies, and anti-bot handled internally.
 
 - [Firecrawl](https://firecrawl.dev/) - Scrape, crawl, map, search, agent, and interact endpoints. LLM-ready Markdown. 500 free credits, paid plans from $16/mo.
+- [Context.dev](https://www.context.dev/) - Web search, scraping, crawling, JSON Schema extraction, document parsing, monitoring, and asynchronous batch jobs. Free tier and paid plans.
 - [Jina Reader](https://jina.ai/reader/) - Prepend `r.jina.ai/` to any URL for LLM-friendly text. Free tier with no API key required.
 - [Diffbot](https://www.diffbot.com/) - Computer vision and NLP extraction with a knowledge graph layer. Paid.
 - [Apify](https://apify.com/) - Marketplace of 10,000+ pre-built scrapers ("Actors") plus a runtime for your own. Free tier and paid plans.
@@ -94,6 +95,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 [Model Context Protocol](https://modelcontextprotocol.io/) servers that expose scraping capabilities to Claude, Cursor, Windsurf, and other LLM clients.
 
 - [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) - Official MCP wrapper for Firecrawl's scrape, crawl, and extract endpoints. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=social)
+- [Context.dev MCP](https://docs.context.dev/install-mcp) - Hosted OAuth MCP server for search, scraping, crawling, structured extraction, document parsing, screenshots, monitoring, and batch jobs.
 - [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) - Search, scrape, and extract from 60+ sources with anti-bot bypass. 5,000 free requests/month. ![GitHub Repo stars](https://img.shields.io/github/stars/brightdata/brightdata-mcp?style=social)
 - [Scrapling MCP](https://scrapling.readthedocs.io/en/latest/ai/mcp-server/) - Built-in MCP server bundled with [Scrapling](https://github.com/D4Vinci/Scrapling). Install with `pip install "scrapling[ai]"`.
 - [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Anthropic's official fetch MCP server. URL-to-Markdown.
