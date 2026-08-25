@@ -149,6 +149,8 @@ Pre-scraped web data for RAG, training, or benchmarking.
 - [Jina Reader Quickstart](https://jina.ai/reader/) - One-line URL conversion.
 - [LangChain Web Loaders](https://python.langchain.com/docs/integrations/document_loaders/) - Document loaders for web content.
 - [LlamaIndex Web Connectors](https://llamahub.ai/) - Web data connectors for LlamaIndex.
+- [Apify vs Firecrawl](https://tryapify.com/compare/apify-vs-firecrawl) - When to use prebuilt scraping actors vs LLM-ready markdown crawling, with pricing math.
+- [Apify Actor Statistics](https://tryapify.com/apify-actor-stats) - Live pricing and usage data across 1,900+ hosted scrapers, refreshed weekly from the platform API.
 
 ## Contributing
 
