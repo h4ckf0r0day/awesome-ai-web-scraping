@@ -78,6 +78,8 @@ Headless browsers designed for AI agents and scrapers.
 - [Obscura](https://github.com/h4ckf0r0day/obscura) - Rust-based headless browser. CDP-compatible with Puppeteer and Playwright. Built-in stealth and tracker blocking. ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social)
 - [Browserable](https://github.com/browserable/browserable) - Open-source, self-hostable browser automation library. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
 
+- [Browser Forest](https://browserforest.com/) - Anti-detect Chromium sessions behind a CDP/REST API, for scraping sites that block automation. Free tier: 300 min/month.
+
 ## No-Code AI Scrapers
 
 Visual or point-and-click tools that use AI to extract data without writing code.
@@ -101,6 +103,8 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+
+- [Browser Forest MCP](https://browserforest.com/api/mcp/bf) - Hosted MCP server exposing anti-detect browser sessions: navigate, extract, click, fill, captcha. 300 free minutes/month.
 
 ## Web Search APIs for LLMs
 
