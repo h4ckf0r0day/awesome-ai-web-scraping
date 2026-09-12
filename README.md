@@ -72,6 +72,7 @@ Headless browsers designed for AI agents and scrapers.
 
 - [Steel.dev](https://steel.dev/) - Open-source headless browser API for AI agents. Self-host or use the hosted service. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Browserbase](https://www.browserbase.com/) - Hosted headless browser. Powers Stagehand. Paid.
+- [Ghost Browser](https://github.com/Wvdstoep/ghost-browser) - Self-hostable browser an AI agent drives by numbered Set-of-Mark annotations; logged-in profiles, an act-gate for writes, and record/replay. MIT.
 - [Hyperbrowser](https://www.hyperbrowser.ai/) - Browser platform with stealth, scraping, and agent endpoints. Free tier and paid plans.
 - [Anchor Browser](https://anchorbrowser.io/) - Browser API with built-in auth and session persistence. Paid.
 - [Browserless](https://www.browserless.io/) - Headless Chrome as a service. Free tier and paid plans.
