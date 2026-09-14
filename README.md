@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- [Moxlade — Upwork Freelancer Search](https://apify.com/moxlade/upwork-freelancers) - Search 30,000+ Upwork freelancer profiles by rate, JSS, country, hours: exact earnings and contract history with feedback both ways, live or from a daily-refreshed census. Typed JSON/CSV/Excel. $4 per 1,000 rows, no start fee.
 
 ## Browser Infrastructure for AI
 
@@ -101,6 +102,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+- [Moxlade — Upwork Buyer Intelligence](https://buyer.moxlade.com) - MCP endpoint over a proprietary Upwork corpus: who the anonymous client behind a posting really is, what they have actually paid, and the market rate for a skill. Answers only — the corpus never leaves. Sign in; metered and capped per account.
 
 ## Web Search APIs for LLMs
 
