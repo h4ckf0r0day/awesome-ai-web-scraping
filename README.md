@@ -124,6 +124,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [NetNut](https://netnut.io/) - ISP and residential proxy network.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot proxy and scraping API.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy rotation and CAPTCHA handling.
+- [proxy-ip-check](https://github.com/socks5ip/proxy-ip-check) - Zero-dependency CLI and Node library that classifies a proxy IP as consumer, hosting, or proxy/VPN before you scrape, so you can reject dead or flagged exits early. Free and open source (MIT). ![GitHub Repo stars](https://img.shields.io/github/stars/socks5ip/proxy-ip-check)
 
 ## Datasets
 
