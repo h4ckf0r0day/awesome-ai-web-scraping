@@ -134,6 +134,7 @@ Pre-scraped web data for RAG, training, or benchmarking.
 - [RedPajama-Data-v2](https://github.com/togethercomputer/RedPajama-Data) - 30T-token open web dataset.
 - [C4](https://huggingface.co/datasets/allenai/c4) - Colossal Clean Crawled Corpus derived from Common Crawl.
 - [The Pile](https://pile.eleuther.ai/) - 825 GiB diverse text corpus including web data.
+- [Techmap Job Postings](https://jobdatafeeds.com/) - Pre-scraped job postings from 185 sources (career pages, job boards, employment offices) in 250 countries, ~8M new per month, as JSON API, RSS feeds and daily files. Free Kaggle samples and free API tier, paid plans.
 
 ## Benchmarks & Research
 
