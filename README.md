@@ -55,7 +55,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Diffbot](https://www.diffbot.com/) - Computer vision and NLP extraction with a knowledge graph layer. Paid.
 - [Apify](https://apify.com/) - Marketplace of 10,000+ pre-built scrapers ("Actors") plus a runtime for your own. Free tier and paid plans.
 - [Bright Data](https://brightdata.com/) - Scraping with 150M+ proxies and pre-built APIs for 120+ sites. Free tier and paid plans.
-- [Zyte](https://www.zyte.com/) - Scraping API with AI extraction. Formerly Scrapinghub. Paid.
+- [Zyte](https://www.zyte.com/) - Scraping API with AI extraction. Formerly Scrapinghub. Free trial and paid plans.
 - [ScrapingBee](https://www.scrapingbee.com/) - JS rendering, AI extraction, Markdown, and Google SERP support. Free trial and paid plans.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot focused scraping API with Markdown output. Free trial and paid plans.
 - [Oxylabs](https://oxylabs.io/) - Proxies plus a Web Scraper API with adaptive parsing. Paid.
@@ -101,6 +101,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+- [Zyte MCP](https://docs.zyte.com/zyte-web-data/mcp.html) - Hosted MCP server that lets agents fetch protected pages as Markdown, extract structured data, search the web and run Scrapy Cloud jobs. No separate MCP fee.
 
 ## Web Search APIs for LLMs
 
