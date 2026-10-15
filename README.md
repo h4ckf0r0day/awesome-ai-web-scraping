@@ -77,6 +77,7 @@ Headless browsers designed for AI agents and scrapers.
 - [Browserless](https://www.browserless.io/) - Headless Chrome as a service. Free tier and paid plans.
 - [Obscura](https://github.com/h4ckf0r0day/obscura) - Rust-based headless browser. CDP-compatible with Puppeteer and Playwright. Built-in stealth and tracker blocking. ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social)
 - [Browserable](https://github.com/browserable/browserable) - Open-source, self-hostable browser automation library. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
+- [Clawbrowser](https://github.com/clawbrowser/clawbrowser) - Open-source Chromium runtime for AI agents and scrapers. Per-profile fingerprints, proxy routing, and session storage behind a standard CDP endpoint. Requires an API key. ![GitHub Repo stars](https://img.shields.io/github/stars/clawbrowser/clawbrowser?style=social)
 
 ## No-Code AI Scrapers
 
