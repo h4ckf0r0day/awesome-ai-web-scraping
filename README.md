@@ -100,6 +100,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) - MCP server exposing Browserbase sessions and Stagehand primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social)
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
+- [ATS Zero-Browser Gateway MCP](https://github.com/ginugokz/ats-zero-browser-gateway) - Jobs from Workday, Greenhouse, Lever and Ashby career sites as normalized JSON, with change tracking (new, edited and closed jobs). MCP server for a hosted [Apify](https://apify.com/ginugokz/ats-zero-browser-gateway) Actor; needs an Apify API token.
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
 
 ## Web Search APIs for LLMs
