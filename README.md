@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- [UnblockingAPI](https://unblockingapi.com/) - Send a public URL, get rendered HTML or template-parsed JSON back. Browser rendering, country routing and retries handled; open-source MCP server for Claude, Cursor and VS Code. Free tier (500 credits), failed requests not billed.
 
 ## Browser Infrastructure for AI
 
