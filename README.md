@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- [Apify Scrapers Pack](https://github.com/3torix3/apify-scrapers-pack) - 30 pay-per-result Apify Actors with LLM-ready output (Markdown pages, RAG chunks, transcripts) and Python, LangChain and MCP examples.
 
 ## Browser Infrastructure for AI
 
