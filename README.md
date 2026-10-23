@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- [Context.dev](https://www.context.dev/web-scraping-api) - Rendered web scraping, Markdown, and schema-based JSON extraction for AI agents. Free credits and paid plans.
 
 ## Browser Infrastructure for AI
 
