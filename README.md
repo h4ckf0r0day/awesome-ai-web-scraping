@@ -60,6 +60,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [ZenRows](https://www.zenrows.com/) - Anti-bot focused scraping API with Markdown output. Free trial and paid plans.
 - [Oxylabs](https://oxylabs.io/) - Proxies plus a Web Scraper API with adaptive parsing. Paid.
 - [Spider](https://spider.cloud/) - Concurrent crawler and scraper API with LLM-ready output. Free tier and paid plans.
+- [FastAF](https://fastaf.co/) - Amazon product and Google SERP data as clean JSON for LLM agents, via REST, remote MCP (16 tools) or x402. Pay per call: $0.001 Amazon, $0.003 SERP.
 - [WebScraping.AI](https://webscraping.ai/) - Scraping API with question-answering and field-extraction endpoints. Free tier and paid plans.
 - [Scrapeless](https://www.scrapeless.com/) - Scraping API with anti-bot bypass and structured extraction. Free tier and paid plans.
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
