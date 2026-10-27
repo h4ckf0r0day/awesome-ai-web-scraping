@@ -124,6 +124,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [NetNut](https://netnut.io/) - ISP and residential proxy network.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot proxy and scraping API.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy rotation and CAPTCHA handling.
+- [Peak](https://peak.fo/) - CAPTCHA solving API that unblocks Cloudflare Turnstile, reCAPTCHA, and hCaptcha for AI agents and scrapers. Proxyless, pay-per-solve, free trial.
 
 ## Datasets
 
