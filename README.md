@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- [TidyTools](https://tools.yukai.uk/free/url-to-markdown) - Prepend `tools.yukai.uk/md/` to a URL for LLM-ready Markdown with a YAML header (title, status, token estimate); PDFs included, no JavaScript rendering. Free with no API key (rate limited); paid Apify Actor for whole-site crawls with RAG chunks.
 
 ## Browser Infrastructure for AI
 
