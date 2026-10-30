@@ -54,6 +54,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Jina Reader](https://jina.ai/reader/) - Prepend `r.jina.ai/` to any URL for LLM-friendly text. Free tier with no API key required.
 - [Diffbot](https://www.diffbot.com/) - Computer vision and NLP extraction with a knowledge graph layer. Paid.
 - [Apify](https://apify.com/) - Marketplace of 10,000+ pre-built scrapers ("Actors") plus a runtime for your own. Free tier and paid plans.
+- [Article Content Extractor](https://apify.com/taroyamada/article-content-extractor) - Extracts clean article text to Markdown/CSV for RAG and LLM use. From $8 / 1,000 useful rows on Apify.
 - [Bright Data](https://brightdata.com/) - Scraping with 150M+ proxies and pre-built APIs for 120+ sites. Free tier and paid plans.
 - [Zyte](https://www.zyte.com/) - Scraping API with AI extraction. Formerly Scrapinghub. Paid.
 - [ScrapingBee](https://www.scrapingbee.com/) - JS rendering, AI extraction, Markdown, and Google SERP support. Free trial and paid plans.
