@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- - [String](https://usestring.ai/web-access) - Web access API for protected and JS-heavy pages: fetch to LLM-ready Markdown, Google search, and site crawl. Pay only for successful requests. $5 free credit, no card required.
 
 ## Browser Infrastructure for AI
 
@@ -101,6 +102,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+- - [String MCP](https://github.com/usestring/string-ai-mcp) - Official MCP server for String's web access API: search, fetch to Markdown, and site crawl, including bot-protected pages. ![GitHub Repo stars](https://img.shields.io/github/stars/usestring/string-ai-mcp?style=social)
 
 ## Web Search APIs for LLMs
 
