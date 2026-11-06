@@ -88,6 +88,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Gumloop](https://www.gumloop.com/) - Visual workflow builder for scraping, LLM calls, and data transforms.
 - [Octoparse](https://www.octoparse.com/) - Visual scraper with AI-assisted field detection.
 - [ParseHub](https://www.parsehub.com/) - Visual scraper with template-based extraction.
+- [Smart Scraper Studio](https://www.hirewebscraper.com/) - No-code desktop app (Windows, macOS, Linux) that scrapes business directories and Google Maps into Excel/CSV.
 
 ## MCP Servers for Scraping
 
