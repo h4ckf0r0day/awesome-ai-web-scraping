@@ -115,6 +115,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [Brave Search API](https://brave.com/search/api/) - Independent search index.
 - [You.com API](https://api.you.com/) - Web, news, and snippet endpoints.
 - [Kagi Search API](https://help.kagi.com/kagi/api/search.html) - Premium, ad-free search results.
+- [cloro](https://cloro.dev/) - API for Google Search and AI answer engines (ChatGPT, Gemini, Google AI Overview, Google AI Mode, Bing AI Mode). Parsed JSON with cited sources. 500 free credits a month, paid plans from $30/mo.
 
 ## Proxy & Anti-Bot Infrastructure
 
