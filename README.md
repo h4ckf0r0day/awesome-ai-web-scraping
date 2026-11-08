@@ -93,6 +93,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 
 [Model Context Protocol](https://modelcontextprotocol.io/) servers that expose scraping capabilities to Claude, Cursor, Windsurf, and other LLM clients.
 
+- [AgentFuel402 MCP](https://github.com/ak10082247-max/agentfuel402) - High-frequency consumable data engine for AI agents: real-time B2B buyer intent leads, clean web-to-markdown extraction with anti-bot fallbacks, e-commerce price & stock tracker, and live SDK spec generator. Dual-chain x402 v2 micropayments on Base and Solana with verify-fetch-settle protection and remote MCP server.
 - [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) - Official MCP wrapper for Firecrawl's scrape, crawl, and extract endpoints. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=social)
 - [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) - Search, scrape, and extract from 60+ sources with anti-bot bypass. 5,000 free requests/month. ![GitHub Repo stars](https://img.shields.io/github/stars/brightdata/brightdata-mcp?style=social)
 - [Scrapling MCP](https://scrapling.readthedocs.io/en/latest/ai/mcp-server/) - Built-in MCP server bundled with [Scrapling](https://github.com/D4Vinci/Scrapling). Install with `pip install "scrapling[ai]"`.
