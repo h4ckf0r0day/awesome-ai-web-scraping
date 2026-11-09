@@ -51,6 +51,7 @@ Self-hosted, open-source. Most pair a headless browser with an LLM for schema-ba
 Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, proxies, and anti-bot handled internally.
 
 - [Firecrawl](https://firecrawl.dev/) - Scrape, crawl, map, search, agent, and interact endpoints. LLM-ready Markdown. 500 free credits, paid plans from $16/mo.
+- [String](https://usestring.ai/) - Fetch, search, and map API that returns bot-protected pages as Markdown, HTML, or JSON. Billed only on success. ~20,000 free fetches; paid plans from $19/mo.
 - [Jina Reader](https://jina.ai/reader/) - Prepend `r.jina.ai/` to any URL for LLM-friendly text. Free tier with no API key required.
 - [Diffbot](https://www.diffbot.com/) - Computer vision and NLP extraction with a knowledge graph layer. Paid.
 - [Apify](https://apify.com/) - Marketplace of 10,000+ pre-built scrapers ("Actors") plus a runtime for your own. Free tier and paid plans.
