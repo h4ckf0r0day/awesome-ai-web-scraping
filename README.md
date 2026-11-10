@@ -116,6 +116,8 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [You.com API](https://api.you.com/) - Web, news, and snippet endpoints.
 - [Kagi Search API](https://help.kagi.com/kagi/api/search.html) - Premium, ad-free search results.
 
+- [FlashData Google Search API](https://flashdata.dev/docs/sources/google_search) - Structured Google search results via REST with API key authentication. Paid Credits; search results, not full-page extraction.
+
 ## Proxy & Anti-Bot Infrastructure
 
 - [Bright Data](https://brightdata.com/) - 150M+ proxies, Web Unblocker, browser cloud.
