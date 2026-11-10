@@ -115,6 +115,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [Brave Search API](https://brave.com/search/api/) - Independent search index.
 - [You.com API](https://api.you.com/) - Web, news, and snippet endpoints.
 - [Kagi Search API](https://help.kagi.com/kagi/api/search.html) - Premium, ad-free search results.
+- [Autom](https://www.autom.dev/) - Google, Bing, Brave, Yahoo and DuckDuckGo results as structured JSON, 1 credit per request on every engine. 1,000 free requests, then $1.00 down to $0.30 per 1,000.
 
 ## Proxy & Anti-Bot Infrastructure
 
