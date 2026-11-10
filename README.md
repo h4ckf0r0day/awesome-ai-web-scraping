@@ -65,6 +65,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 - [Kadoa](https://www.kadoa.com/) - Self-healing extraction that adapts when sites change. Paid.
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API. Paid.
 - [Reworkd](https://reworkd.ai/) - Agentic AI for no-code structured extraction. Paid.
+- [Piloterr](https://www.piloterr.com/) - Scraping APIs for 300+ websites (Amazon, LinkedIn, Google, Zillow, Crunchbase...) returning parsed JSON, plus headless rendering and an AI web unblocker. Billed on successful requests. 500 free credits, paid plans from $49/mo.
 
 ## Browser Infrastructure for AI
 
