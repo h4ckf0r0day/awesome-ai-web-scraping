@@ -124,6 +124,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [NetNut](https://netnut.io/) - ISP and residential proxy network.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot proxy and scraping API.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy rotation and CAPTCHA handling.
+- [BrowserSolver](https://www.browsersolver.com/) - Web unlocker for Cloudflare, DataDome and similar protections, plus JS rendering, crawling and screenshots. Billed on successful requests. 500 free credits, paid plans from $49/mo.
 
 ## Datasets
 
