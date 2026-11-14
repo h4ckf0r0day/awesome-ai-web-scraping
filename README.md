@@ -101,6 +101,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
+- [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp) - Hosted MCP for scraping, cleaning and matching product and price data from any website. Remote endpoint: `https://mcp.scrapewise.ai/mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/BEBOTECH-OU/scrapewise-mcp?style=social)
 
 ## Web Search APIs for LLMs
 
