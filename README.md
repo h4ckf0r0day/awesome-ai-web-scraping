@@ -127,6 +127,8 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 
 ## Datasets
 
+- [No Stairs Please](https://nostairsplease.com/venues) - Structured live-music venue directory and remote MCP server (`https://nostairsplease.com/mcp`) covering all 50 US states, DC, and British Columbia.
+
 Pre-scraped web data for RAG, training, or benchmarking.
 
 - [Common Crawl](https://commoncrawl.org/) - The largest public web crawl. Petabytes of pages, monthly updates.
