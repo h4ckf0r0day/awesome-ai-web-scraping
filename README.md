@@ -125,6 +125,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot proxy and scraping API.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy rotation and CAPTCHA handling.
 
+- [browsersmith](https://github.com/jverneuer/browsersmith) - Open-source Node.js stack that gives scrapers and AI agents a browser-identical HTTP/TLS layer (JA3/JA4, HTTP/2 fingerprints, SOCKS5). TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/jverneuer/browsersmith?style=social)
 ## Datasets
 
 Pre-scraped web data for RAG, training, or benchmarking.
