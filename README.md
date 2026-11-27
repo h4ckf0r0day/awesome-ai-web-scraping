@@ -52,6 +52,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 
 - [Firecrawl](https://firecrawl.dev/) - Scrape, crawl, map, search, agent, and interact endpoints. LLM-ready Markdown. 500 free credits, paid plans from $16/mo.
 - [Jina Reader](https://jina.ai/reader/) - Prepend `r.jina.ai/` to any URL for LLM-friendly text. Free tier with no API key required.
+- [URL to Markdown](https://apify.com/publicrecords/url-to-markdown) - Apify Actor that converts a web page to LLM-ready Markdown. Pay-per-event: $0.0012 per page converted plus $0.002 Actor start on the Apify FREE tier (lower on paid tiers).
 - [Diffbot](https://www.diffbot.com/) - Computer vision and NLP extraction with a knowledge graph layer. Paid.
 - [Apify](https://apify.com/) - Marketplace of 10,000+ pre-built scrapers ("Actors") plus a runtime for your own. Free tier and paid plans.
 - [Bright Data](https://brightdata.com/) - Scraping with 150M+ proxies and pre-built APIs for 120+ sites. Free tier and paid plans.
@@ -100,6 +101,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) - MCP server exposing Browserbase sessions and Stagehand primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social)
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) - Browser automation for scraping and interaction.
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
+- [Public Records URL to Markdown MCP](https://mcp.apify.com?tools=publicrecords/url-to-markdown) - Hosted MCP tool that converts a web page to LLM-ready Markdown. Connect with your own Apify account.
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
 
 ## Web Search APIs for LLMs
@@ -134,6 +136,7 @@ Pre-scraped web data for RAG, training, or benchmarking.
 - [RedPajama-Data-v2](https://github.com/togethercomputer/RedPajama-Data) - 30T-token open web dataset.
 - [C4](https://huggingface.co/datasets/allenai/c4) - Colossal Clean Crawled Corpus derived from Common Crawl.
 - [The Pile](https://pile.eleuther.ai/) - 825 GiB diverse text corpus including web data.
+- [Comparison of AI Agent Data & MCP Tools (2026)](https://huggingface.co/datasets/Publicrecords/apify-ai-tools-comparisons) - CC0 comparison of AI agent data tools and MCP servers, with Hugging Face, [Zenodo](https://doi.org/10.5281/zenodo.24596802), and [GitHub Pages](https://geminigeorge22.github.io/publicrecords-comparisons/ai-tools-comparison.html) releases.
 
 ## Benchmarks & Research
 
